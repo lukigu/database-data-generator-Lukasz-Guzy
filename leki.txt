@@ -1,0 +1,228 @@
+Bicalutamidum
+Bleomycinum
+Carboplatinum
+Capecitabinum
+Ciclosporinum
+Cisplatinum
+Cladribinum
+Cyclophosphamidum inj.
+Cyclophosphamidum p.o.
+Cytarabinum
+Dacarbazinum
+Docetaxelum
+Doxorubicinum
+Doxorubicinum liposomanum nonpegylatum
+Doxorubicinum liposomanum pegylatum
+Epirubicinum
+Etoposidum
+Fludarabinum p.o.
+Fluorouracilum
+Fulvestrant
+Gemcitabinum
+Hydroxycarbamidum
+Idarubicinum 
+Ifosfamidum
+Interferonum beta 1a a 30 mcg
+Interferonum beta 1a a 44 mcg
+Interferonum beta 1b
+Irinotecanum
+analogi somatostatyny
+analogi somatostatyny - lanreotyd
+Mercaptopurinum
+Methotrexatum inj.
+Methotrexatum p.o
+Mitotanum
+Oxaliplatinum
+Paclitaxelum
+Paclitaxelum albuminatum
+Pegaspargasum
+Pemetreksed
+Rituximabum
+Tamoxifenum
+Topotecanum inj.
+Topotecanum p.o.
+Tretinoinum
+Vincristinum
+Vinorelbinum inj
+Vinorelbinum p.o.
+czynniki stymulujące erytropoezę
+czynniki stymulujące erytropoezę - darbepoetyna
+czynniki stymulujące granulopoezę
+Mesnum
+ondansetronum inj.
+ondansetronum p.o.
+Rasburicasum
+blokery TNF - adalimumab
+blokery TNF - etanercept
+blokery TNF - infliksimab
+blokery TNF - golimumab
+analogi nukleozydowe/nukleotydowe inne niż lamiwudyna
+analogi nukleozydowe/nukleotydowe inne niż lamiwudyna - adefowir
+analogi nukleozydowe/nukleotydowe inne niż lamiwudyna - entekawir
+Alglucosidase alfa
+Anagrelidum
+Bortezomib
+toksyny botulinowe - 1
+toksyny botulinowe - 2
+toksyny botulinowe - 3
+Bosentan
+Cetuximab
+Cinacalcet
+Dazatynib
+Glatirameri acetas
+Idursulfase
+Iloprost
+Imatynib
+Imatynib -2
+Imiglucerasum
+Immunoglobulinum humanum
+Immunoglobulinum humanum subcutaneum
+Lamivudinum
+Lapatynib
+Laronidasum
+analogi gonadoliberyny
+Mecasermine
+Nilotynib
+Palivizumab
+Peginterferonum alfa 2a
+Peginterferonum beta-1a
+Ribavirinum
+Sildenafilum
+Somatropinum
+Sorafenib
+Sunitynib
+Temozolomidum
+Tobramycinum
+Trastuzumabum
+Trastuzumab emtanzyna
+Treprostynilum 
+Betaine anhydrous
+Erlotinib
+Ewerolimus
+Ewerolimus - 2
+Gefitynibum
+Trabectedin
+Factor VIII coagulationis humanus recombinate
+Factor VIII coagulationis humanus
+Factor IX coagulationis humanus recombinate
+Factor IX coagulationis humanus
+pochodne i sole kwasu folinowego
+Leki p-nowotworowe, przeciwciała monoklonalne - bewacyzumab
+Leki p-nowotworowe, przeciwciała monoklonalne - panitumumab
+Melphalanum
+Chlorambucilum
+Tioguaninum
+Busulfanum
+Omalizumabum
+Certolizumab pegol
+Fingolimod
+Tocilizumab
+Ustekinumab
+Wemurafenib
+Trójtlenek arsenu
+Pazopanib
+Klofarabina
+Aprepitant
+Bendamustyna
+Natalizumab
+bisfosfoniany - kwas zoledronowy
+Leki przeciwnowotworowe – antymetabolity – analogi pirymidyny – azacytydyna
+Lenalidomid
+Octan abirateronu
+Aksytynib
+Welagluceraza alfa
+Ipilimumab
+Leki p-grzybicze - pochodne triazolu - posaconazol
+Leki p-grzybicze - pochodne triazolu - worykonazol
+Pleryksafor
+Inhibitory kinaz białkowych - afatynib
+Nelarabina
+Beksaroten
+Epoprostenol
+Parykalcytol
+Aflibercept
+Ranibizumab
+Leki przeciwwirusowe - ledipaswir, sofosbuwir
+Leki przeciwwirusowe - elbaswir, grazoprewir
+Leki przeciwwirusowe: sofosbuwir, velpataswir
+Inhibitory kinaz białkowych - dabrafenib
+Denosumabum
+Riocyguat
+Macytentan
+Nityzynon
+Brentuksymab vedotin
+Pembrolizumab
+Niwolumab
+Fumaran dimetylu
+Crisantaspasum
+Pertuzumab
+Obinutuzumab
+Olaparyb
+Temsyrolimus
+Kryzotynib
+Ruksolitynib
+Anakinra
+Netupitant, palonosetron
+Wismodegib
+Pirfenidon
+Trametynib
+Kobimetynib
+Teryflunomid
+Alemtuzumab
+Deksametazon
+Lewodopa, karbidopa
+Bosutynib
+Leki p-nowotworowe – aflibercept
+Piksantron
+Ibrutynib
+Mepolizumab
+Enzalutamid
+Ozymertynib
+Dichlorek radu Ra-223
+Ekulizumab
+Eltrombopag
+Nintedanib
+Pasyreotyd
+Kabozantynib
+Wedolizumab
+Apomorfina
+Nintedanib - 2
+Glecaprevir + Pibrentasvir
+Sekukinumab
+Alirocumab
+Pomalidomid
+Atezolizumab
+Iksekizumab
+Nusinersen
+Venetoclax
+Daratumumab
+Blinatumomab
+Karfilzomib
+Alectinib
+Agalzydaza alfa
+Agalzydaza beta
+Baricytynib
+Tofacytynib
+Palbocyklib
+Rybocyklib
+Trifluridyna, tipiracil
+Cerytynib
+Ewolokumab
+Benralizumab
+Kladrybina
+Okrelizumab
+Wandetanib
+Pegwisomant
+Eliglustat
+L-Karnityna
+Romiplostym
+Ponatynib
+Dinutuksymab beta
+Brygatynib
+Abemacyklib
+Ryzankizumab
+Guselkumab
+Enkorafenib
+Binimetynib
+Migalastatum
+Iwakaftor

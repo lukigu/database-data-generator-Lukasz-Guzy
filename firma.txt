@@ -1,0 +1,15 @@
+Roche
+Pfizer
+Johnson & Johnson
+Novartis
+Abbvie
+Merck & Co.
+Sanofi
+GlaxosmithKline
+Bristol Myers Squibb
+AstraZeneca
+Takeda
+Eli Lilly
+Amgen
+Novo Nordisk
+Gilead Sciences
